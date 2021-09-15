@@ -29,10 +29,8 @@ jspm_packages/
 *.tgz
 .yarn-integrity
 .cache
+.idea/
 !/.projenrc.js
-/test-reports/
-junit.xml
-/coverage/
 !/.github/workflows/build.yml
 /dist/changelog.md
 /dist/version.txt
@@ -43,7 +41,6 @@ junit.xml
 !/src/
 /lib
 /dist/
-!/tsconfig.jest.json
 !/.eslintrc.json
 !/tsconfig.eslint.json
 .jsii
