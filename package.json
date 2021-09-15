@@ -2,7 +2,7 @@
   "name": "@cdksecuritywing/testmodule",
   "repository": {
     "type": "git",
-    "url": "https://github.com/syras/testmodule.git"
+    "url": "https://github.com/cdksecuritywing/testmodule.git"
   },
   "scripts": {
     "clobber": "npx projen clobber",

@@ -6,7 +6,7 @@ const project = new JsiiProject({
   // name: 'cdksecuritywing/testmodule',
   // repositoryUrl: 'https://github.com/syras/testmodule.git',
   name: '@cdksecuritywing/testmodule',
-  repositoryUrl: 'https://github.com/syras/testmodule.git',
+  repositoryUrl: 'https://github.com/cdksecuritywing/testmodule.git',
   jest: false,
   devDeps: [
     '@types/semver',
