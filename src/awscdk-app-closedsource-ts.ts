@@ -31,7 +31,7 @@ export class AwsCdkClosedSourceTypeScriptApp extends AwsCdkTypeScriptApp {
 
     });
     //  SAMPLE CODE
-  
+
 
   }
 }
